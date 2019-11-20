@@ -1,0 +1,35 @@
+{
+  "private": {
+    "base": {
+      "0.0.1-rc.23": {
+        "GEN": "0xe5608e4945998aB5E4548Bc95b421E188095DA8E",
+        "DAORegistry": "0xBc53027c52B0Ee6ad90347b8D03A719f30d9d7aB",
+        "ControllerCreator": "0x8c634b72fF5d6A9F6a0281EEF36365E4db8bDF8d",
+        "DaoCreator": "0x959306A913D041D4f634310f6aD3789cBF0e9b18",
+        "UController": "0x01c4052ac7EEF0cbDdc83F3780149D52D4174776",
+        "GenesisProtocol": "0x8E225686FdDB86DA290860C764Cf178ba02FDA0B",
+        "SchemeRegistrar": "0x29fa1c214B7242b704063F2Ec52494f4639A9cc3",
+        "UpgradeScheme": "0xD5746777FE34a3562aD3abc1501629ca0190F23B",
+        "GlobalConstraintRegistrar": "0x70eE878D560D7E17a986872f54B7C58f564B2784",
+        "ContributionReward": "0x46E3D301e211d2A2D3148412FCA5788F3182908d",
+        "AbsoluteVote": "0x40b13914f9886E234E1e00435E76D558FA8cf5ba",
+        "QuorumVote": "0x74E33B80BC77cdB5d49861a53913A8301CB72B4D",
+        "TokenCapGC": "0x6FdB1c9e1a1A8beD2EE22a3d5E62CA330ee88ecb",
+        "VoteInOrganizationScheme": "0x9e8efB8C27f3012493ce315974A64CAcDE6f4ccC",
+        "OrganizationRegister": "0x97bd553f21B175F7CC00819cC6494a7FbA344180",
+        "Redeemer": "0x768b5Faed6DC69816f33377d214ffaf00dcDd0cf",
+        "GenericScheme": "0xD8d315932b5c5b9B21B14A39f5F12e4b9Bd65571"
+      }
+    },
+    "dao": {
+      "0.0.1-rc.23": {
+        "name": "Zealous Banjo",
+        "Avatar": "0xFA64858C14345C0a3aD805E0da64900C4d7ec5e6",
+        "DAOToken": "0x72440269630E393d38975Db7fA7Cb4D14e7eC061",
+        "Reputation": "0x439D0306A0EBD39771781AFB74c1Ae8De29E97Fa",
+        "Controller": "0xFd8643CeE37DaE121Ca0E84FD2Ceeb49E828B493",
+        "Schemes": {}
+      }
+    }
+  }
+}
